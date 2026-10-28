@@ -1,0 +1,30 @@
+{
+  "property_name": "The Meridian Residences",
+  "location": "Sector 82, Mohali",
+  "price": "₹2.45 Cr",
+  "property_type": "Villa",
+  "bedrooms": 4,
+  "bathrooms": 4,
+  "area_sqft": 3200,
+  "short_description": "A contemporary residence with generous living spaces, warm interiors and seamless indoor-outdoor design.",
+  "key_features": [
+    "Landscaped garden",
+    "Open-plan kitchen",
+    "City-view balcony",
+    "Infinity pool"
+  ],
+  "cta": "Book a private viewing",
+  "brand_name": "ESTATEFRAME PROPERTY FILMS",
+  "tone": "Architectural editorial",
+  "aspect_ratio": "16:9 · Landscape",
+  "photo_captions": [
+    "Contemporary villa exterior",
+    "Skyline-facing living room",
+    "Marble island kitchen",
+    "Primary bedroom suite",
+    "Infinity pool and terrace",
+    "Spa-inspired bathroom",
+    "Private balcony lounge",
+    "Indoor-outdoor dining"
+  ]
+}

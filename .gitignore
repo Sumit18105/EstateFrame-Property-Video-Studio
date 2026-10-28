@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+outputs/*.mp4
+outputs/*.png
+outputs/*.jpg
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+.DS_Store
+*.log
